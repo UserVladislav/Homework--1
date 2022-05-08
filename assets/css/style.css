@@ -21,7 +21,7 @@ body {
 /* Фон start */
 
 .promo {
-    background-image: url("/images/image.png");
+    background-image: url("./images/image.png");
     background-repeat: no-repeat;
     width: 1024px;
     height: 358px;
